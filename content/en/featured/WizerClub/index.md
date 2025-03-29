@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'Wizer Club'
 cover: './demo.png'
 external: 'https://wizer.club'

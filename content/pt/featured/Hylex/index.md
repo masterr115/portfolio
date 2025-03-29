@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '4'
 title: 'Hylex Minecraft Server'
 cover: './demo.png'
 external: 'https://loja.hylex.net'
